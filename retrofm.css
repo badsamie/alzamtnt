@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+video {
+    width: 850px;
+    height: auto;
+}
+img {
+    width: 400px;
+    height: auto;
+}
